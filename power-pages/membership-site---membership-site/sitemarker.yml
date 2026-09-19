@@ -1,0 +1,15 @@
+- adx_name: Home
+  adx_pageid: 41421070-3fb3-4bb9-b020-a12a8175a8db
+  adx_sitemarkerid: 5d9e7ac8-090f-4cc0-97aa-fd194a4cc061
+- adx_name: Search
+  adx_pageid: e63d3fc5-7fe4-469a-bb7b-a286bb900d43
+  adx_sitemarkerid: 89f21536-7d69-4366-bc99-6adcdf090ddb
+- adx_name: Profile
+  adx_pageid: 63de0c8a-e3ec-4e6d-ac49-8b7ab166b311
+  adx_sitemarkerid: 8cce3bd1-b863-483f-8545-5bb285fedc37
+- adx_name: Page Not Found
+  adx_pageid: 3d583e3a-4733-4db6-af38-1741c702d71d
+  adx_sitemarkerid: 9bc7ce03-a22d-4809-b172-8aa0e0cdcdf2
+- adx_name: Access Denied
+  adx_pageid: 57815c54-2c90-447f-b423-d90076dc4af3
+  adx_sitemarkerid: fa54f5a8-e1bf-4d3d-9229-3e2a5dd25c60
